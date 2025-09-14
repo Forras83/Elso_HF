@@ -2,14 +2,14 @@
 
 Készítette:Forrás László WN0JPF DUE Hallgató  
 
-## 🚀 Leírás
+##  Leírás
 Ez egy alap Python projekt, amely egy egyszerű `print_hi()` függvényt tartalmaz.  
 A program futtatásakor üdvözlő üzenetet ír ki a konzolra.
 
-## 📂 Fájlok
+##  Fájlok
 - **main.py** – a fő programkód
 
-## 🛠 Használat
+##  Használat
 1. Nyisd meg a projektet PyCharm-ban vagy bármely Python IDE-ben.  
 2. Futtasd a `main.py` fájlt.  
 
